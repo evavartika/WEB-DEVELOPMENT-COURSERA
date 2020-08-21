@@ -1,0 +1,44 @@
+.container {
+    margin-top: 1%;
+}
+
+.card {
+    margin-top: 2%;
+}
+
+.card_content {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.tbl {
+    border: solid 2px;
+    background-color: lightgray;
+}
+
+.tbl_head {
+    border: solid 2px;
+    width: 40%;
+    text-align: center;
+    font-weight: bold;
+    height: 25px;
+}
+
+#chicken {
+    background-color: pink;
+}
+
+#beef {
+    background-color: red;
+}
+
+#sushi {
+    background-color: yellow;
+}
+
+#header {
+    text-align: center;
+    font-weight: bolder;
+}
